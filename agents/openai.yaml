@@ -1,6 +1,6 @@
 interface:
   display_name: "白模镜头导演"
-  short_description: "读取任意题材剧本，以《繁花》摄影为主结合动作运镜，制作并验收电影感白模预演"
-  default_prompt: "使用 $cinematic-whitebox，完整读取我的剧本，以《繁花》摄影风格为主并结合动作驱动运镜，自动拆场、推导资产与分镜，制作白模剧情预演并渲染验收。"
+  short_description: "读取剧本，以《繁花》为默认并按剧情选择导演镜头手法，制作并验收白模预演"
+  default_prompt: "使用 $cinematic-whitebox，完整读取我的剧本，以《繁花》为默认并在合适段落选择其他导演手法，说明选择依据，推导资产与分镜并制作白模预演。"
 policy:
   allow_implicit_invocation: true

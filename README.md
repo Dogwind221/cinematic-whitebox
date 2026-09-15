@@ -5,6 +5,7 @@
 ## 能做什么
 
 - 通读剧本、拆分场景与叙事节拍，推导角色、场景和道具清单。
+- 按剧情需要选用 15 位导演的代表镜头手法，说明适用条件、实现方式和失败条件；默认仍以《繁花》为主。
 - 设计景别、前景框景、留白、镜面、回头揭示、动作调度与剪辑切点。
 - 协调相机、焦点和动作，设计选择性的慢动作、抽帧与声音提示。
 - 按关键帧、切点、动作连续性和剧情覆盖进行渲染检查。
@@ -33,6 +34,7 @@ git clone https://github.com/Dogwind221/cinematic-whitebox.git "$env:USERPROFILE
 ## 文件
 
 - [SKILL.md](SKILL.md)：主要工作流程与验收要求。
+- [导演手法选择](references/director-routing.md)：按叙事需要匹配导演手法，含相机、调度、剪辑与验收规则。
 - [剧本到镜头](references/story-to-camera.md)：按叙事需要选择摄影方式。
 - [《繁花》基础参考](references/fanhua-case.md)：构图、光影与参数使用边界。
 - [《繁花》补充](references/fanhua-dongkente.md)：碎片切镜、回头、留白、镜面与音乐起落点。
