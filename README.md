@@ -34,6 +34,7 @@ git clone https://github.com/Dogwind221/cinematic-whitebox.git "$env:USERPROFILE
 ## 文件
 
 - [SKILL.md](SKILL.md)：主要工作流程与验收要求。
+- [构图主次与空间层次](references/composition-hierarchy.md)：视觉平衡、框架、纵深、拉焦交接与灰阶分离。
 - [摄影意图与验收](references/cinematography-intent.md)：机位、构图、运动的语境判断与替代方案比较。
 - [导演手法选择](references/director-routing.md)：按叙事需要匹配导演手法，含相机、调度、剪辑与验收规则。
 - [剧本到镜头](references/story-to-camera.md)：按叙事需要选择摄影方式。

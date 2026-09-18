@@ -59,6 +59,8 @@ description: 读取不同题材剧本，默认以《繁花》摄影为主，并�
 
 设计与复检时读取 [references/cinematography-intent.md](references/cinematography-intent.md)：分别明确机位、构图、运动，以剧情语境判断意义；关键镜头检查视线留白与头顶空间，必要时比较合理替代机位或固定镜头。将观众体验、选择依据和实际画面证据记入现有分镜/QA 表，不能将摄影术语直接等同于某种情绪。
 
+构图需要进一步优化时读取 [references/composition-hierarchy.md](references/composition-hierarchy.md)：区分视觉兴趣点与光学焦点，检查视觉重心、画内框架和空间层次；拉焦按信息交接设计，灰阶明暗可采用亮主体或暗轮廓。复用已有分镜和 QA 记录，不强制每镜套用全部构图方法。
+
 先为每个镜头写清一句话：观众在这一刻应看见什么，以及为什么要看。再建立分镜表：
 
 | 字段 | 必须明确的内容 |
