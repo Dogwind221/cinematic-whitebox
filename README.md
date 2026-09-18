@@ -34,6 +34,7 @@ git clone https://github.com/Dogwind221/cinematic-whitebox.git "$env:USERPROFILE
 ## 文件
 
 - [SKILL.md](SKILL.md)：主要工作流程与验收要求。
+- [摄影意图与验收](references/cinematography-intent.md)：机位、构图、运动的语境判断与替代方案比较。
 - [导演手法选择](references/director-routing.md)：按叙事需要匹配导演手法，含相机、调度、剪辑与验收规则。
 - [剧本到镜头](references/story-to-camera.md)：按叙事需要选择摄影方式。
 - [《繁花》基础参考](references/fanhua-case.md)：构图、光影与参数使用边界。
