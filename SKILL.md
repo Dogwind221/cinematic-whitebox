@@ -67,6 +67,8 @@ description: 读取不同题材剧本，默认以《繁花》摄影为主，并�
 
 构图需要进一步优化时读取 [references/composition-hierarchy.md](references/composition-hierarchy.md)：区分视觉兴趣点与光学焦点，检查视觉重心、画内框架和空间层次；拉焦按信息交接设计，灰阶明暗可采用亮主体或暗轮廓。复用已有分镜和 QA 记录，不强制每镜套用全部构图方法。
 
+当剧本涉及重复中的异动、繁密环境、横竖画幅调整或移动中的信息揭示时，读取 [references/composition-elements.md](references/composition-elements.md)：将纹理密度、图案例外和构图状态变化转成调度与灰阶检查，保持《繁花》为默认风格。
+
 需要扩展转场、空镜、身体细节、光线维度、画幅或主观/正反打设计时，按需读取 [references/film-aesthetics-series.md](references/film-aesthetics-series.md)。该参考覆盖“电影美学”合集 14 集；以剧情信息决定选用，明确转场两端、意象状态和有效画面，分类标签不作为固定情绪公式。
 
 先为每个镜头写清一句话：观众在这一刻应看见什么，以及为什么要看。再建立分镜表：
