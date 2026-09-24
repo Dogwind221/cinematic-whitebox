@@ -50,6 +50,8 @@ description: 读取不同题材剧本，默认以《繁花》摄影为主，并�
 
 把选择落实为“剧本锚点 → 语义分支 → 可见状态变化 → 角色/环境/相机关键帧 → 验收条件”，沿用《繁花》主摄影逻辑。风需要可见受风对象与反应，重逢需要谁先认出、是否回应及距离结果；只有静态构图依据时，相机轨迹标为本片设计推导。按需检索 [references/mood-source-index.md](references/mood-source-index.md) 中 124 条逐集抽样记录，不将抽帧覆盖说成全片逐镜精读，也不把参考人物与剧情搬入新剧本。
 
+剧本涉及故地重访、似曾相识或克制告别时，可读取 [references/last-letter-encounter.md](references/last-letter-encounter.md)：以进入旧地、视线发现、反应停留和环境距离组织段落，不将参考片段擅自解释为回忆或重逢，也不改变《繁花》默认方向。
+
 ### 按剧本选择导演手法
 
 读取 [references/director-routing.md](references/director-routing.md) 的选用表。默认仍以《繁花》组织人物关系与情绪；当剧本的叙事目标明显更适合其他导演手法时，可主动在该段落采用，并说明理由。用户明确指定全片风格时优先遵守。
